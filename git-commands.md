@@ -68,7 +68,7 @@ Tables:
 |----------|----------|
 | Data 1   | Data 2   |
 | Data 3   | Data 4   |
-
+```
 8. Horizontal rules: Insert a horizontal rule to visually separate sections by using three hyphens (`---`), three asterisks (`***`), or three underscores (`___`) on a separate line.
 Horizontal rule:
 ---

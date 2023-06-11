@@ -1,0 +1,33 @@
+∙       Developing front end website architecture.
+∙       Designing user interactions on web pages.
+∙       Developing backend website applications.
+∙       Creating servers and databases for functionality.
+∙       Ensuring cross-platform optimization for mobile phones.
+∙       Ensuring responsiveness of applications.
+∙       Working alongside graphic designers for web design features.
+∙       Seeing through a project from conception to finished product.
+∙       Designing and developing APIs.
+∙       Meeting both technical and consumer needs.
+∙       Staying abreast of developments in web applications and programming languages.
+∙       Keen to learn cutting edge technologies to enforce the same into the development process.
+Skills and Experience:
+∙       3-5 years of Java web programming experience
+∙       Experience developing web services
+∙       Understanding in object-oriented concepts, design patterns, and algorithms
+∙       Strong organizational and project management skills.
+∙       Proficiency with front-end languages such as JSP, HTML, CSS and JavaScript.
+∙       Familiarity with JavaScript frameworks such as Angular JS / React
+∙       Proficiency with Java - Spring MVC/Spring Boot frameworks, Application server deployment
+∙       Proficiency with Nodejs
+∙       Familiarity with database technology such as MySQL, PostgreSQL and MongoDB.
+∙       Familiarity with AWS services
+∙       Familiarity with Blockchain Tech
+∙       Familiarity with Scrum / Agile development
+∙       Familiarity with unit testing frameworks such as Junit & Mockito
+∙       Knowledge of code versioning tool - Git
+∙       Mobile development experience (iOS/Android) a plus
+∙       D3JS experience a plus
+∙       Excellent verbal communication skills.
+∙       Good problem-solving skills.
+∙       Experience in working with agile teams
+∙       Attention to detail.

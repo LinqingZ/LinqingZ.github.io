@@ -6,5 +6,17 @@ learning <!DOCTYPE HTML>
    <body>
 <a href="link or a html page file location"> link name</a>
 <img src = "image link or file location" />
+<table>
+  <thead> table head 
+  <tr>table row
+    <td> table data </td>
+  </tr>
+  </thead>
+  <tbody>
+      <tr> 
+        <td> first column</td>
+      </tr> # row 1
+  </tbody>
+</table>
       </body>
       </html>

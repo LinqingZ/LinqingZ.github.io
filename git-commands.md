@@ -49,7 +49,7 @@
 ```python
 def greet():
     print("Hello, world!")
-
+```
 Java Code
 ```java
 public class HelloWorld {

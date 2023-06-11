@@ -58,14 +58,23 @@ System.out.println("Hello, World!");
 }
 }
 ```
+#!/bin/bash
+echo "Hello, World!"
+
 7. Tables: Markdown allows you to create simple tables using pipe `|` characters to separate columns and hyphens `-` to define the header row. You can also align columns using colons `:`.
 Tables:
+```markdown
+| Column 1 | Column 2 |
+|----------|----------|
+| Data 1   | Data 2   |
+| Data 3   | Data 4   |
 
 8. Horizontal rules: Insert a horizontal rule to visually separate sections by using three hyphens (`---`), three asterisks (`***`), or three underscores (`___`) on a separate line.
-
-8. Horizontal rule:
+Horizontal rule:
+---
 
 9. Escape characters: Markdown uses certain characters for formatting. If you want to display those characters as regular text, you can use the backslash `\` to escape them. For example, to display an asterisk without formatting, use `\*`.
+To display an asterisk: \*
 
 10. Preview and test: To ensure your Markdown file appears as intended, preview it in a Markdown editor or use online Markdown editors that provide live previews. This helps you catch any formatting or syntax errors before publishing or sharing the file.
 
